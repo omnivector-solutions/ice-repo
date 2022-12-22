@@ -1,0 +1,6 @@
+[ov-ice]
+name=ICE Driver for Centos7
+baseurl=https://omnivector-solutions.github.io/ice-repo/centos7/build/$basearch
+enabled=1
+gpgcheck=0
+priority=1
